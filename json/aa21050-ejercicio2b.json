@@ -1,0 +1,21 @@
+{
+    "pais": {
+      "departamento": [
+        {
+          "cabecera": "San Salvador",
+          "habitantes": "1,700,000",
+          "altura": "545 MSNM"
+        },
+        {
+          "cabecera": "La Libertad",
+          "habitantes": "907,665",
+          "altura": "923 MSNM"
+        }
+      ],
+      "moneda": "Dolar \"$\"",
+      "codigoArea": 503,
+      "idiomaOficial": "Español",
+      "idiomaAutoctono": "Nahuat",
+      "idiomaSecundario": "Ingles"
+    }
+  }

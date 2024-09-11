@@ -1,0 +1,28 @@
+{
+    "pais": {
+      "departamento": [
+        {
+          "cabecera": "San Salvador",
+          "habitantes": "1,700,000",
+          "altura": "545 MSNM"
+        },
+        {
+          "cabecera": "Santa Tecla",
+          "habitantes": "299,470",
+          "altura": "923 MSNM"
+        },
+        {
+          "cabecera": "Usulutan",
+          "habitantes": "366,000",
+          "altura": "90 MSNM"
+        }
+      ],
+      "moneda": "Dolar \"$\"",
+      "codigoArea": 503,
+      "idiomaOficial": "Español",
+      "idiomaAutoctono": "Nahuat",
+      "idiomaSecundario": "Ingles",
+      "aveNacional": "Torogoz",
+      "arbolNacional": "Maquilishuat"
+    }
+  }

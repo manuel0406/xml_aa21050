@@ -1,0 +1,6 @@
+/* aa21050-ejemplo1.css SUCARNET */
+fichero { background-color: red; }
+ficha { background-color: blue; display: block; }
+nombre { background-color: white; color: black; display: inline; }
+apellido { color: yellow; display: inline; }
+direccion { color: yellow; font-size: 1cm; display: none; }

@@ -1,0 +1,7 @@
+¿A partir del ejemplo 1 y ejercicios desarrollados hasta el momento que puede concluir?
+Que son documentos bien formados pero no validos
+
+¿A partir del ejemplo 2 y ejercicios desarrollados hasta el momento que puede concluir?
+Siguiendo la lógica del ejemplo uno, se sigue creando etiquetas donde se busca entender la estructura de XML, sigue siento un documento bien formado porque no hay etiquetas mal cerradas, pero sigue siendo no valido
+
+¿A partir de los ejercicios desarrollados en esta sección II.3 que puede concluir?

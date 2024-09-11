@@ -1,0 +1,6 @@
+/* aa21050-ejercicio2a.css SUCARNET */
+pais { background-color: red; }
+departamento { text-align: center; background-color: white; display: block; }
+cabecera { color: red; display: inline; }
+habitantes { color: black; display: inline; }
+altura { color: blue; font-size: 1cm; display: inline; }

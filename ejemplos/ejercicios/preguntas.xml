@@ -18,7 +18,7 @@
         <respuesta>Que de la misma forma que se le puede dar estilos a una página web HTML, se puede implementar de la misma forma para una página con XML, mostrando que las hojas de estilo no son solo para web con HTML.</respuesta>
     </conclusion>
           <boton>
-            <a xmlns="http://www.w3.org/1999/xhtml" href="../../index.html">Volver al Inicio</a>
+            <a xmlns="http://www.w3.org/1999/xhtml" href="./../../index.html">Volver al Inicio</a>
       </boton>
 
 </conclusiones>

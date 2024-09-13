@@ -13,7 +13,7 @@
     <isss>ISSS: 0000005800</isss>
     <afp>AFP: 025300000001</afp>
     <boton>
-      <a xmlns="http://www.w3.org/1999/xhtml" href="../../index.html">Volver al Inicio</a>
+      <a xmlns="http://www.w3.org/1999/xhtml" href="./../../index.html">Volver al Inicio</a>
 </boton>
    </ficha>
  </fichero>

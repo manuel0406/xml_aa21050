@@ -1,0 +1,73 @@
+fichero {
+    background-color: #f8f9fa;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  ficha {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    margin-bottom: 20px;
+    display: block;
+  }
+  
+  nombre, apellido, telefono, email, url {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #343a40;
+  }
+  
+  nombre {
+    font-weight: bold;
+    font-size: 1.25rem;
+  }
+  
+  apellido {
+    font-weight: bold;
+  }
+  
+  direccion {
+    font-size: 0.875rem;
+    color: #6c757d;
+    display: block;
+  }
+  
+  telefono {
+    color: #007bff;
+  }
+  
+  email {
+    color: #6f42c1;
+  }
+  
+  url {
+    color: #28a745;
+    text-decoration: none;
+    margin-bottom: 20px;
+  }
+  
+  boton {
+    margin-top: 30px;
+    text-align: center;
+
+  }
+  
+  a {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  a:hover {
+    background-color: #0056b3;
+  }

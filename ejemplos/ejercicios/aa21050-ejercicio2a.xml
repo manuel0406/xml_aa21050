@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?xml-stylesheet type="text/css" href="../style/aa21050-ejercicio2b.css" ?>
+<?xml-stylesheet type="text/css" href="../style/aa21050-ejercicio2a.css" ?>
 <!-- ejercicio2b.xml aa21050-->
 <pais nombre="El Salvador">
     <departamento id="1" nombre="San Salvador">
@@ -12,9 +12,14 @@
         <habitantes>907,665</habitantes>
         <altura>923 MSNM</altura>
     </departamento>
+    <caracteristicas>
     <moneda>Dolar "$"</moneda>
     <codigoArea>503</codigoArea>  
     <idiomaOficial>Español</idiomaOficial>
     <idiomaAutoctono>Nahuat</idiomaAutoctono>
     <idiomaSecundario>Inglés</idiomaSecundario>
+    </caracteristicas>
+    <boton>
+      <a xmlns="http://www.w3.org/1999/xhtml" href="../../index.html">Volver al Inicio</a>
+    </boton>
 </pais>

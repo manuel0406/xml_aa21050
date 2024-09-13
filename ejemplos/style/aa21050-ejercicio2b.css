@@ -1,0 +1,44 @@
+pais {
+    background-color: #f8f9fa;
+    padding: 20px;
+    display: block; /* Asegura que los elementos se apilen verticalmente */
+    text-align: center;
+}
+
+departamento, caracteristicas {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto; /* Centra las tarjetas y añade separación */
+    display: block;
+}
+
+cabecera, habitantes, altura, moneda, codigoArea, idiomaOficial, idiomaAutoctono, idiomaSecundario {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #343a40;
+}
+
+boton {
+    margin-top: 30px; /* Añade un espacio extra antes del botón */
+    text-align: center;
+    display: block; /* Asegura que el botón quede en una nueva línea */
+}
+
+a {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+a:hover {
+    background-color: #0056b3;
+}

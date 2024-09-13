@@ -5,3 +5,7 @@ Que son documentos bien formados pero no validos
 Siguiendo la lógica del ejemplo uno, se sigue creando etiquetas donde se busca entender la estructura de XML, sigue siento un documento bien formado porque no hay etiquetas mal cerradas, pero sigue siendo no valido
 
 ¿A partir de los ejercicios desarrollados en esta sección II.3 que puede concluir?
+Que Json es tan versátil que se puede hacer una conversión de objetos desde cualquier lenguaje, en este caso la transformación fue desde un XML a json y viceversa 
+
+¿A partir de los ejemplo/ejercicios CSS desarrollados, que puede concluir?
+que de la misma forma que se le puede dar estilos a una pagina web HTML, se puede implementar de la misma forma para una pagina con XML y nos muestra otro panorama que las hojas de estilo necesariamente no son solo para web con HTML.

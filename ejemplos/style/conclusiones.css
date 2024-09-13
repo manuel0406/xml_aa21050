@@ -1,0 +1,65 @@
+conclusiones {
+    background-color: #f0f0f0;
+    font-family: 'Georgia', serif;
+    padding: 40px;
+    margin: 0 auto;
+    width: 85%;
+    max-width: 800px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border: 1px solid #ddd;
+}
+
+conclusion {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e2e2e2;
+    display: inline-block;
+    width: 100%; /* Esto asegura que las tarjetas ocupen todo el ancho disponible */
+    box-sizing: border-box;
+    transition: transform 0.3s ease;
+}
+
+conclusion:hover {
+    transform: translateY(-5px);
+}
+
+pregunta {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+    font-family: 'Arial', sans-serif;
+}
+
+respuesta {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 20px;
+    line-height: 1.8;
+    font-family: 'Times New Roman', serif;
+}
+
+boton {
+    text-align: center;
+    margin-top: 40px;
+}
+
+a {
+    text-align: center;
+    background-color: #007bff;
+    color: white;
+    padding: 12px 35px;
+    text-decoration: none;
+    border-radius: 0.3rem;
+    font-size: 1.2rem;
+    display: inline-block;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+a:hover {
+    background-color: #0056b3;
+}

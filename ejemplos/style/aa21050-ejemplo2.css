@@ -4,3 +4,23 @@ departamento { text-align: center; background-color: white; display: block; }
 cabecera { color: red; display: inline; }
 habitantes { color: black; display: inline; }
 altura { color: blue; font-size: 1cm; display: inline; }
+boton {
+    text-align: center;
+    margin-top: 40px;
+}
+
+a {
+    text-align: center;
+    background-color: #007bff;
+    color: white;
+    padding: 12px 35px;
+    text-decoration: none;
+    border-radius: 0.3rem;
+    font-size: 1.2rem;
+    display: inline-block;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+a:hover {
+    background-color: #0056b3;
+}

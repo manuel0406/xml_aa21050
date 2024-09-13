@@ -7,4 +7,7 @@
              <habitantes>1,700,000</habitantes>
              <altura>545 MSNM</altura>
          </departamento>
+          <boton>
+            <a xmlns="http://www.w3.org/1999/xhtml" href="../../index.html">Volver al Inicio</a>
+      </boton>
  </pais>

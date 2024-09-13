@@ -6,5 +6,9 @@
         <nombre>Antonio</nombre>
         <apellido>Barbero</apellido>
         <direccion>Calle de Los Andes, 45</direccion>
+
     </ficha>
+     <boton>
+            <a xmlns="http://www.w3.org/1999/xhtml" href="../../index.html">Volver al Inicio</a>
+      </boton>
 </fichero>

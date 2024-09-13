@@ -7,15 +7,22 @@
           "altura": "545 MSNM"
         },
         {
-          "cabecera": "La Libertad",
-          "habitantes": "907,665",
+          "cabecera": "Santa Tecla",
+          "habitantes": "299,470",
           "altura": "923 MSNM"
+        },
+        {
+          "cabecera": "Usulutan",
+          "habitantes": "366,000",
+          "altura": "90 MSNM"
         }
       ],
       "moneda": "Dolar \"$\"",
       "codigoArea": 503,
       "idiomaOficial": "Español",
       "idiomaAutoctono": "Nahuat",
-      "idiomaSecundario": "Ingles"
+      "idiomaSecundario": "Ingles",
+      "aveNacional": "Torogoz",
+      "arbolNacional": "Maquilishuat"
     }
   }

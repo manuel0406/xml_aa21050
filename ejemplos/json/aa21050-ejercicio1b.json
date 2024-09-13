@@ -6,7 +6,10 @@
         "direccion": "Calle de Los Andes, 45",
         "telefono": "7859-6565",
         "email": "aa21050@ues.edu.sv",
-        "url": "http://xml.aa21050.tpi"
+        "url": "http://xml.aa21050.tpi",
+        "dui": "06302726-5",
+        "isss": 5800,
+        "afp": 25300000001
       }
     }
   }

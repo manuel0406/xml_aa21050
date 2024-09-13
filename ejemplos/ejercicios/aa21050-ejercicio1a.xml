@@ -10,7 +10,7 @@
             <email>aa21050@ues.edu.sv</email>
             <url>http://xml.aa21050.tpi</url>
       <boton>
-            <a xmlns="http://www.w3.org/1999/xhtml" href="../../index.html">Volver al Inicio</a>
+            <a xmlns="http://www.w3.org/1999/xhtml" href="./../../index.html">Volver al Inicio</a>
       </boton>
       </ficha>
  </fichero>
